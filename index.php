@@ -8,7 +8,7 @@
     <title>Ruben | Portfolio</title>
     <link href="assets/css/main.css" rel="stylesheet">
     <link href="assets/css/nav.css" rel="stylesheet">
-    <link href="assets/css/media-queries.css.css" rel="stylesheet">
+    <link href="assets/css/media-queries.css" rel="stylesheet">
     <script src="assets/js/nav.js" rel="script"></script>
 </head>
 <body>
