@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "futura-pt-bold";
+    src: url('/assets/fonts/futura-pt-bold.otf');
+}
+
+html, body {
+    margin: 0 auto;
+}
+
+html {
+    background: black;
+}
+
+.headertext {
+    font-size: 230px;
+    text-shadow: -24px -9px;
+}
+
+.webuild {
+    margin-top: 7%;
+    margin-left: -6.6%;
+    font-size: 56px;
+    text-shadow: -4px -4px;
+}
+
+.centered {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.purple {
+    background: linear-gradient(to right, #E92BFF 20%, #4646FF 40%, #4646FF 60%, #E92BFF 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: futura-pt-bold;
+}
